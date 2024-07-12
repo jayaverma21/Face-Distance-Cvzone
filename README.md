@@ -1,4 +1,3 @@
-# Face-Distance-Cvzone
 # Face Distance Measurement using OpenCV
 
 This project demonstrates an application that detects faces from a webcam feed, calculates the approximate distance from the camera to the detected face, and displays the distance on the screen using OpenCV.
