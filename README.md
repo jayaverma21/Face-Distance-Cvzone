@@ -12,8 +12,8 @@ This project demonstrates an application that detects faces from a webcam feed, 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/face-distance-measurement.git
-    cd face-distance-measurement
+    git clone https://github.com/jayaverma21/Face-Distance-Cvzone/edit/main/README.md
+    cd Face-Distance-Cvzone
     ```
 
 2. Make sure you have the Haar Cascade classifier file (`myhaarcascade_frontalface_default.xml`) in the project directory.
